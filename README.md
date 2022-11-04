@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrislru
 - 👀 I’m interested in Cognitive Neuroscience and Machine Learning
 - 🌱 I’m currently learning how to be a Researcher
-- 💞️ I’m looking to collaborate on all things related to my interests
+- 💞️ I’m looking to collaborate on synthetic voice generation
 - 📫 How to reach me : www.christineleilani.com
 
 <!---
