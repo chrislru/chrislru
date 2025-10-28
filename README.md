@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cognitive Neuroscience and Machine Learning
 - 🌱 I’m currently learning how to be a Researcher
 - 💞️ I’m looking to collaborate on synthetic voice generation
-- 📫 How to reach me : www.christineleilani.com
+- 📫 How to reach me : https://chrislru.github.io
 
 <!---
 chrislru/chrislru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
